@@ -194,6 +194,3 @@ Feedstock Maintainers
 
 * [@volpatto](https://github.com/volpatto/)
 
-
-<!-- dummy commit to enable rerendering -->
-
